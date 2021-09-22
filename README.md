@@ -1,3 +1,5 @@
 # Web2
-Práticas de atividades 
+Práticas de atividades
+
+## Extra
 Configuração do ambiente
